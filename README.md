@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **TLexYuW/TLexYuW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LexYu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=TLexYuW&show_icons=true&theme=solarized-dark)
+
+![LexYu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TLexYuW&show_icons=true&theme=solarized-dark&hide=css,html)
