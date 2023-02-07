@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **TLexYuW/TLexYuW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://user-images.githubusercontent.com/84486286/217135239-81d1903d-f6ae-416e-a609-348bfd10cd71.png" width="50px"> motto:</br>
+**_It‘s only when it comes to apply knowledge that you regret not acquiring enough of it. It's only through experience that you learn hard lesson._**
+
 ![LexYu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=TLexYuW&show_icons=true&theme=solarized-dark)
 
 ![LexYu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TLexYuW&show_icons=true&theme=solarized-dark&hide=css,html)
