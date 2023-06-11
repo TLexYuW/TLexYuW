@@ -1,4 +1,6 @@
 <img src="https://user-images.githubusercontent.com/84486286/217135239-81d1903d-f6ae-416e-a609-348bfd10cd71.png" width="50px"> Motto:</br>
 **_It‘s only when it comes to apply knowledge that you regret not acquiring enough of it.</br> It's only through experience that you learn hard lesson._**
 
-![LexYu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=TLexYuW&show_icons=true&theme=algolia)<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TLexYuW&show_icons=true&theme=algolia&hide=css,html">
+<!-- ![LexYu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=TLexYuW&show_icons=true&theme=algolia)<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TLexYuW&show_icons=true&theme=algolia&hide=css,html"> -->
+[![LexYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLexYuW&show_icons=true&count_private=true&locale=en&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLexYuW&layout=pie&show_icons=true&theme=cobalt2&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
