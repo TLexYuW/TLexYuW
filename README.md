@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=3000&pause=300&color=00FF00&vCenter=true&width=2650&height=60&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Lex+Yu;A+Passionate+Backend+Developer;I'm+currently+learning+JS%2C+Java%2C+Go%2C+DevOps+skills+and+anything+interesting." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=60&duration=2500&pause=200&color=00FF00&width=2650&height=200&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Lex+Yu;A+Passionate+Backend+Developer;I'm+currently+learning+JS%2C+Java%2C+Go%2C+DevOps+skills;+and+anything+interesting." alt="Typing SVG" /></a>
 
 <h4 align="left">Languages:</h3>
 
