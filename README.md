@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lex Yu</h1>
-<h2 align="center">A passionate backend developer</h3>
-<h3 align="center">🌱 I am currently learning JS, Java, Go, Spring, DevOps skills, and anything interesting</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&width=435&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Lex+Yu;A+Passionate+Backend+Developer;%F0%9F%8C%B1+I+am+currently+learning+JS%2C+Java%2C+Go%2C+Spring%2C+DevOps+skills%2C+and+anything+interesting)](https://git.io/typing-svg)
 
 <h4 align="left">Languages:</h3>
 
@@ -11,6 +9,10 @@
 <h4 align="left">Database:</h3>
 
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+<h4 align="left">Servers:</h3>
+
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
 <h4 align="left">Cloud:</h3>
 
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<br/>
