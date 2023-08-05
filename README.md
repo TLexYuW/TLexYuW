@@ -16,11 +16,11 @@
 <h4 align="left">Cloud:</h3>
 
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<br/>
-![Static Badge](https://img.shields.io/badge/EC2-orange)  ![Static Badge](https://img.shields.io/badge/Lambda-orange)
-![Static Badge](https://img.shields.io/badge/IAM-red?color=%23B20000)  ![Static Badge](https://img.shields.io/badge/Cognito-red?color=%23B20000)
-![Static Badge](https://img.shields.io/badge/S3-green)  
-![Static Badge](https://img.shields.io/badge/RDS-blue)
-![Static Badge](https://img.shields.io/badge/ApiGateway-purple)  ![Static Badge](https://img.shields.io/badge/DynamoDB-purple)  
+![Static Badge](https://img.shields.io/badge/EC2-orange)  ![Static Badge](https://img.shields.io/badge/Lambda-orange) <br/>
+![Static Badge](https://img.shields.io/badge/IAM-red?color=%23B20000)  ![Static Badge](https://img.shields.io/badge/Cognito-red?color=%23B20000) <br/>
+![Static Badge](https://img.shields.io/badge/S3-green) <br/>
+![Static Badge](https://img.shields.io/badge/RDS-blue) <br/>
+![Static Badge](https://img.shields.io/badge/ApiGateway-purple)  ![Static Badge](https://img.shields.io/badge/DynamoDB-purple) <br/>
 
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <h4 align="left">VCS:</h3>
