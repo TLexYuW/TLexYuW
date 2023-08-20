@@ -49,9 +49,9 @@
 
 ---
 
-<img align="left" alt="LexYu's GitHub Status" src="https://github-readme-stats-ja9h9qtdi-tlexyuw.vercel.app/api?username=TLexYuW&show_icons=true&count_private=true&locale=en&theme=vision-friendly-dark"/>
+<img align="left" alt="LexYu's GitHub Status" src="https://github-readme-stats-ja9h9qtdi-tlexyuw.vercel.app/api?username=TLexYuW&show_icons=true&count_private=true&locale=en&theme=vision-friendly-dark&border_radius=25"/>
 
-<img align="" alt="LexYu's GitHub Status" src="https://github-readme-stats-ja9h9qtdi-tlexyuw.vercel.app/api/top-langs/?username=TLexYuW&layout=pie&show_icons=true&theme=vision-friendly-dark&hide=css,html"/>
+<img align="" alt="LexYu's GitHub Status" src="https://github-readme-stats-ja9h9qtdi-tlexyuw.vercel.app/api/top-langs/?username=TLexYuW&layout=pie&show_icons=true&theme=vision-friendly-dark&hide=css,html&border_radius=25"/>
 
 ---
 <img src="https://user-images.githubusercontent.com/84486286/217135239-81d1903d-f6ae-416e-a609-348bfd10cd71.png" width="50px"> Motto:</br>
