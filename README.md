@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=2500&pause=200&color=00FF00&width=2650&height=200&lines=%3EHi+%F0%9F%91%8B%2C+I'm+Lex+Yu;A+Passionate+Backend+Developer;I'm+currently+learning+JS%2C+Java%2C+Go%2C+DevOps+skills;+and+anything+interesting." alt="Typing SVG" /></a>
 
+![](https://komarev.com/ghpvc/?username=TLexYuW&style=for-the-badge&label=Profile+Views)
+
 <h2 align="left">Languages:</h2>
 
 ![](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
